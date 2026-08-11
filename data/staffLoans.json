@@ -1,0 +1,76 @@
+[
+  {
+    "id": "LON-0001",
+    "staffId": "USR-005",
+    "amount": 750,
+    "reason": "Relocation assistance",
+    "issueDate": "2026-03-07",
+    "installmentAmount": 62.5,
+    "installmentsTotal": 12,
+    "installmentsPaid": 2,
+    "remaining": 625,
+    "deductFromSalary": true,
+    "status": "active",
+    "approvedById": "USR-002",
+    "history": [
+      {
+        "date": "2026-06-12",
+        "amount": 62.5
+      },
+      {
+        "date": "2026-07-12",
+        "amount": 62.5
+      }
+    ]
+  },
+  {
+    "id": "LON-0002",
+    "staffId": "USR-006",
+    "amount": 750,
+    "reason": "Personal loan request",
+    "issueDate": "2026-03-07",
+    "installmentAmount": 250,
+    "installmentsTotal": 3,
+    "installmentsPaid": 1,
+    "remaining": 500,
+    "deductFromSalary": true,
+    "status": "active",
+    "approvedById": "USR-002",
+    "history": [
+      {
+        "date": "2026-07-12",
+        "amount": 250
+      }
+    ]
+  },
+  {
+    "id": "LON-0003",
+    "staffId": "USR-007",
+    "amount": 400,
+    "reason": "Emergency medical expense",
+    "issueDate": "2025-12-22",
+    "installmentAmount": 133.333,
+    "installmentsTotal": 3,
+    "installmentsPaid": 0,
+    "remaining": 400,
+    "deductFromSalary": true,
+    "status": "active",
+    "approvedById": "USR-002",
+    "history": []
+  },
+  {
+    "id": "LON-0004",
+    "staffId": "USR-008",
+    "amount": 400,
+    "reason": "Emergency medical expense",
+    "issueDate": "2026-01-23",
+    "installmentAmount": 66.667,
+    "installmentsTotal": 6,
+    "installmentsPaid": 0,
+    "remaining": 400,
+    "deductFromSalary": true,
+    "status": "active",
+    "approvedById": "USR-002",
+    "history": []
+  }
+]

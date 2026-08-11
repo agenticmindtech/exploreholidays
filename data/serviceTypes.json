@@ -1,0 +1,74 @@
+[
+  {
+    "id": "SRV-001",
+    "name": "Air Ticket",
+    "kind": "ticket",
+    "icon": "Plane",
+    "color": "primary-600",
+    "requiresPnr": true,
+    "isActive": true
+  },
+  {
+    "id": "SRV-002",
+    "name": "Hotel",
+    "kind": "hotel",
+    "icon": "BedDouble",
+    "color": "accent-600",
+    "requiresPnr": false,
+    "isActive": true
+  },
+  {
+    "id": "SRV-003",
+    "name": "Visa",
+    "kind": "visa",
+    "icon": "Stamp",
+    "color": "info-600",
+    "requiresPnr": false,
+    "isActive": true
+  },
+  {
+    "id": "SRV-004",
+    "name": "Holiday Package",
+    "kind": "package",
+    "icon": "Package",
+    "color": "success-600",
+    "requiresPnr": false,
+    "isActive": true
+  },
+  {
+    "id": "SRV-005",
+    "name": "Cruise",
+    "kind": "cruise",
+    "icon": "Ship",
+    "color": "secondary-600",
+    "requiresPnr": false,
+    "isActive": true
+  },
+  {
+    "id": "SRV-006",
+    "name": "Umrah",
+    "kind": "umrah",
+    "icon": "Moon",
+    "color": "primary-700",
+    "requiresPnr": false,
+    "isActive": true
+  },
+  {
+    "id": "SRV-007",
+    "name": "Insurance",
+    "kind": "insurance",
+    "icon": "ShieldCheck",
+    "color": "danger-600",
+    "requiresPnr": false,
+    "isActive": true
+  },
+  {
+    "id": "SRV-008",
+    "name": "Transport",
+    "kind": "transport",
+    "icon": "Car",
+    "color": "warning-600",
+    "requiresPnr": false,
+    "isActive": true
+  }
+]

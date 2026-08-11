@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MST-0001",
+    "staffId": "USR-007",
+    "saleId": "SAL-0025",
+    "date": "2026-07-08",
+    "description": "Incorrect fare class quoted to customer.",
+    "amount": 63.45,
+    "status": "reported",
+    "recoveredAmount": 0,
+    "reportedById": "USR-004",
+    "notes": null
+  },
+  {
+    "id": "MST-0002",
+    "staffId": "USR-005",
+    "saleId": "SAL-0084",
+    "date": "2026-08-03",
+    "description": "Booked wrong travel date, had to rebook at extra cost.",
+    "amount": 61.688,
+    "status": "accepted",
+    "recoveredAmount": 0,
+    "reportedById": "USR-003",
+    "notes": null
+  },
+  {
+    "id": "MST-0003",
+    "staffId": "USR-007",
+    "saleId": "SAL-0092",
+    "date": "2026-08-07",
+    "description": "Duplicate booking created for the same customer.",
+    "amount": 58.018,
+    "status": "recovering",
+    "recoveredAmount": 29.009,
+    "reportedById": "USR-004",
+    "notes": null
+  },
+  {
+    "id": "MST-0004",
+    "staffId": "USR-005",
+    "saleId": "SAL-0094",
+    "date": "2026-07-25",
+    "description": "Applied incorrect payment method, caused reconciliation delay.",
+    "amount": 43.806,
+    "status": "recovered",
+    "recoveredAmount": 43.806,
+    "reportedById": "USR-003",
+    "notes": null
+  },
+  {
+    "id": "MST-0005",
+    "staffId": "USR-007",
+    "saleId": "SAL-0040",
+    "date": "2026-05-26",
+    "description": "Duplicate booking created for the same customer.",
+    "amount": 12.003,
+    "status": "waived",
+    "recoveredAmount": 0,
+    "reportedById": "USR-003",
+    "notes": null
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "BR-001",
+    "name": "Manama Head Office",
+    "code": "MNM",
+    "address": "Government Avenue, Manama, Bahrain",
+    "phone": "+973 1700 1001",
+    "managerId": "USR-002",
+    "isActive": true,
+    "color": "#0E7C86"
+  },
+  {
+    "id": "BR-002",
+    "name": "Seef Branch",
+    "code": "SEEF",
+    "address": "Seef District, Manama, Bahrain",
+    "phone": "+973 1700 1002",
+    "managerId": null,
+    "isActive": true,
+    "color": "#F5920B"
+  },
+  {
+    "id": "BR-003",
+    "name": "Muharraq Branch",
+    "code": "MHQ",
+    "address": "Muharraq, Bahrain",
+    "phone": "+973 1700 1003",
+    "managerId": null,
+    "isActive": true,
+    "color": "#3F6AB1"
+  }
+]

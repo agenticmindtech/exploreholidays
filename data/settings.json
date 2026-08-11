@@ -1,0 +1,13 @@
+{
+  "agencyName": "TravelDesk Pro Travel & Tourism W.L.L.",
+  "logo": "/logo.png",
+  "address": "Government Avenue, Manama, Kingdom of Bahrain",
+  "phone": "+973 1700 1000",
+  "currency": "BHD",
+  "currencyDecimals": 3,
+  "vatPercent": 10,
+  "fiscalYearStart": "01-01",
+  "duplicateCheckEnabled": true,
+  "defaultTheme": "light",
+  "receivableDueDays": 30
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "TGT-2026-08-USR-005",
+    "staffId": "USR-005",
+    "month": "2026-08",
+    "salesCountTarget": 20,
+    "revenueTarget": 8000,
+    "profitTarget": 1200,
+    "achievedCount": 5,
+    "achievedRevenue": 3404.015,
+    "achievedProfit": 470.262
+  },
+  {
+    "id": "TGT-2026-08-USR-006",
+    "staffId": "USR-006",
+    "month": "2026-08",
+    "salesCountTarget": 20,
+    "revenueTarget": 8000,
+    "profitTarget": 1200,
+    "achievedCount": 3,
+    "achievedRevenue": 6761.205,
+    "achievedProfit": 1211.099
+  },
+  {
+    "id": "TGT-2026-08-USR-007",
+    "staffId": "USR-007",
+    "month": "2026-08",
+    "salesCountTarget": 20,
+    "revenueTarget": 8000,
+    "profitTarget": 1200,
+    "achievedCount": 5,
+    "achievedRevenue": 2150.483,
+    "achievedProfit": 403.74
+  },
+  {
+    "id": "TGT-2026-08-USR-008",
+    "staffId": "USR-008",
+    "month": "2026-08",
+    "salesCountTarget": 20,
+    "revenueTarget": 8000,
+    "profitTarget": 1200,
+    "achievedCount": 7,
+    "achievedRevenue": 5362.182,
+    "achievedProfit": 1176.22
+  }
+]

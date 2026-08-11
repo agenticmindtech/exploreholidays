@@ -1,0 +1,152 @@
+[
+  {
+    "id": "NTF-0006",
+    "toUserId": "USR-002",
+    "type": "sale_posted",
+    "title": "Sale posted",
+    "body": "BK-2026-0103 was posted by Yousif Hasan.",
+    "entityId": "SAL-0103",
+    "isRead": false,
+    "createdAt": "2026-07-25T15:47:00.000Z"
+  },
+  {
+    "id": "NTF-0004",
+    "toUserId": "USR-003",
+    "type": "sale_submitted",
+    "title": "New sale submitted",
+    "body": "Layla Haddad submitted BK-2026-0103 for verification.",
+    "entityId": "SAL-0103",
+    "isRead": false,
+    "createdAt": "2026-07-25T11:11:00.000Z"
+  },
+  {
+    "id": "NTF-0005",
+    "toUserId": "USR-004",
+    "type": "sale_submitted",
+    "title": "New sale submitted",
+    "body": "Layla Haddad submitted BK-2026-0103 for verification.",
+    "entityId": "SAL-0103",
+    "isRead": true,
+    "createdAt": "2026-07-25T11:11:00.000Z"
+  },
+  {
+    "id": "NTF-0012",
+    "toUserId": "USR-002",
+    "type": "sale_posted",
+    "title": "Sale posted",
+    "body": "BK-2026-0061 was posted by Yousif Hasan.",
+    "entityId": "SAL-0061",
+    "isRead": true,
+    "createdAt": "2026-07-18T17:29:00.000Z"
+  },
+  {
+    "id": "NTF-0010",
+    "toUserId": "USR-003",
+    "type": "sale_submitted",
+    "title": "New sale submitted",
+    "body": "Sara Al-Amin submitted BK-2026-0061 for verification.",
+    "entityId": "SAL-0061",
+    "isRead": false,
+    "createdAt": "2026-07-16T11:54:00.000Z"
+  },
+  {
+    "id": "NTF-0011",
+    "toUserId": "USR-004",
+    "type": "sale_submitted",
+    "title": "New sale submitted",
+    "body": "Sara Al-Amin submitted BK-2026-0061 for verification.",
+    "entityId": "SAL-0061",
+    "isRead": false,
+    "createdAt": "2026-07-16T11:54:00.000Z"
+  },
+  {
+    "id": "NTF-0009",
+    "toUserId": "USR-002",
+    "type": "sale_posted",
+    "title": "Sale posted",
+    "body": "BK-2026-0044 was posted by Yousif Hasan.",
+    "entityId": "SAL-0044",
+    "isRead": true,
+    "createdAt": "2026-05-25T12:14:00.000Z"
+  },
+  {
+    "id": "NTF-0015",
+    "toUserId": "USR-002",
+    "type": "sale_posted",
+    "title": "Sale posted",
+    "body": "BK-2026-0068 was posted by Yousif Hasan.",
+    "entityId": "SAL-0068",
+    "isRead": true,
+    "createdAt": "2026-05-24T13:38:00.000Z"
+  },
+  {
+    "id": "NTF-0007",
+    "toUserId": "USR-003",
+    "type": "sale_submitted",
+    "title": "New sale submitted",
+    "body": "Omar Nasser submitted BK-2026-0044 for verification.",
+    "entityId": "SAL-0044",
+    "isRead": true,
+    "createdAt": "2026-05-24T12:48:00.000Z"
+  },
+  {
+    "id": "NTF-0008",
+    "toUserId": "USR-004",
+    "type": "sale_submitted",
+    "title": "New sale submitted",
+    "body": "Omar Nasser submitted BK-2026-0044 for verification.",
+    "entityId": "SAL-0044",
+    "isRead": false,
+    "createdAt": "2026-05-24T12:48:00.000Z"
+  },
+  {
+    "id": "NTF-0003",
+    "toUserId": "USR-002",
+    "type": "sale_posted",
+    "title": "Sale posted",
+    "body": "BK-2026-0159 was posted by Noor Abdulla.",
+    "entityId": "SAL-0159",
+    "isRead": true,
+    "createdAt": "2026-05-23T11:47:00.000Z"
+  },
+  {
+    "id": "NTF-0013",
+    "toUserId": "USR-003",
+    "type": "sale_submitted",
+    "title": "New sale submitted",
+    "body": "Layla Haddad submitted BK-2026-0068 for verification.",
+    "entityId": "SAL-0068",
+    "isRead": true,
+    "createdAt": "2026-05-22T10:56:00.000Z"
+  },
+  {
+    "id": "NTF-0014",
+    "toUserId": "USR-004",
+    "type": "sale_submitted",
+    "title": "New sale submitted",
+    "body": "Layla Haddad submitted BK-2026-0068 for verification.",
+    "entityId": "SAL-0068",
+    "isRead": true,
+    "createdAt": "2026-05-22T10:56:00.000Z"
+  },
+  {
+    "id": "NTF-0001",
+    "toUserId": "USR-003",
+    "type": "sale_submitted",
+    "title": "New sale submitted",
+    "body": "Omar Nasser submitted BK-2026-0159 for verification.",
+    "entityId": "SAL-0159",
+    "isRead": true,
+    "createdAt": "2026-05-21T12:49:00.000Z"
+  },
+  {
+    "id": "NTF-0002",
+    "toUserId": "USR-004",
+    "type": "sale_submitted",
+    "title": "New sale submitted",
+    "body": "Omar Nasser submitted BK-2026-0159 for verification.",
+    "entityId": "SAL-0159",
+    "isRead": false,
+    "createdAt": "2026-05-21T12:49:00.000Z"
+  }
+]
