@@ -1,0 +1,25 @@
+1:"$Sreact.fragment"
+2:I[78937,[],"OutletBoundary"]
+3:"$Sreact.suspense"
+7:I[78937,[],"ViewportBoundary"]
+8:I[78937,[],"MetadataBoundary"]
+9:I[20556,[],"IconMark"]
+b:I[68172,[],""]
+c:I[97210,[],""]
+f:I[14742,["9969","static/chunks/9969-ce33fac6183009d2.js","7338","static/chunks/7338-7dcb7fb1c394f1e1.js","7507","static/chunks/7507-f470a19ed4a4067f.js","3199","static/chunks/3199-183ba2e5cb1ad568.js","3599","static/chunks/3599-8719a3ffe04bcacc.js","7177","static/chunks/app/layout-0a674d838c549ffd.js"],"MotionConfig"]
+10:I[94175,["9969","static/chunks/9969-ce33fac6183009d2.js","7338","static/chunks/7338-7dcb7fb1c394f1e1.js","7507","static/chunks/7507-f470a19ed4a4067f.js","3199","static/chunks/3199-183ba2e5cb1ad568.js","3599","static/chunks/3599-8719a3ffe04bcacc.js","7177","static/chunks/app/layout-0a674d838c549ffd.js"],"ThemeProvider"]
+11:I[27326,["9969","static/chunks/9969-ce33fac6183009d2.js","7338","static/chunks/7338-7dcb7fb1c394f1e1.js","7507","static/chunks/7507-f470a19ed4a4067f.js","3199","static/chunks/3199-183ba2e5cb1ad568.js","3599","static/chunks/3599-8719a3ffe04bcacc.js","7177","static/chunks/app/layout-0a674d838c549ffd.js"],"default"]
+:HL["/_next/static/css/7a7617d43acee004.css","style"]
+6:X
+e:X
+e:C
+0:{"buildId":"lg4ZlxM2yceGxOgs__ZFk","data":[{"rsc":["$","$1","c",{"children":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"TravelDesk Pro"}],["$","meta","1",{"name":"description","content":"Enterprise travel-agency sales & accounting system"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?603d046c9a6fdfbb","type":"image/x-icon","sizes":"16x16"}],["$","$L9","3",{}]]}]}]}],null]}],"isPartial":"$@a","staleTime":"$6","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$6","varyParams":"$e"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7a7617d43acee004.css","precedence":"next"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n(function () {\n  try {\n    var stored = localStorage.getItem('td-theme');\n    var theme = stored === 'dark' || stored === 'light'\n      ? stored\n      : (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');\n    if (theme === 'dark') document.documentElement.classList.add('dark');\n  } catch (e) {}\n})();\n"}}]}],["$","body",null,{"className":"font-sans antialiased","suppressHydrationWarning":true,"children":["$","$Lf",null,{"reducedMotion":"user","children":["$","$L10",null,{"children":["$","$L11",null,{"children":["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]}]}]}]}]]}]]}],"isPartial":"$@12","staleTime":"$6","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@13","rootVaryParams":null,"needsRuntimeRequest":"$@14"}
+4:null
+6:300
+14:true
+6:C
+13:0
+a:"$undefined"
+d:"$undefined"
+12:"$undefined"
+5:"$undefined"

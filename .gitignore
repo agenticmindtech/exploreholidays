@@ -1,0 +1,4 @@
+/node_modules
+/.next/cache
+/.next/trace
+npm-debug.log*

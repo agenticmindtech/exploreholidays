@@ -1,0 +1,280 @@
+{
+  "version": 3,
+  "pages404": true,
+  "appType": "app",
+  "caseSensitive": false,
+  "basePath": "",
+  "redirects": [
+    {
+      "source": "/:path+/",
+      "destination": "/:path+",
+      "internal": true,
+      "priority": true,
+      "statusCode": 308,
+      "regex": "^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"
+    }
+  ],
+  "headers": [],
+  "onMatchHeaders": [],
+  "rewrites": {
+    "beforeFiles": [],
+    "afterFiles": [],
+    "fallback": []
+  },
+  "dynamicRoutes": [
+    {
+      "page": "/reports/[reportId]",
+      "regex": "^/reports/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPreportId": "nxtPreportId"
+      },
+      "namedRegex": "^/reports/(?<nxtPreportId>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/staff/sales/[id]",
+      "regex": "^/staff/sales/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPid": "nxtPid"
+      },
+      "namedRegex": "^/staff/sales/(?<nxtPid>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/staff/sales/[id]/invoice",
+      "regex": "^/staff/sales/([^/]+?)/invoice(?:/)?$",
+      "routeKeys": {
+        "nxtPid": "nxtPid"
+      },
+      "namedRegex": "^/staff/sales/(?<nxtPid>[^/]+?)/invoice(?:/)?$"
+    }
+  ],
+  "staticRoutes": [
+    {
+      "page": "/",
+      "regex": "^/(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/(?:/)?$"
+    },
+    {
+      "page": "/_global-error",
+      "regex": "^/_global\\-error(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_global\\-error(?:/)?$"
+    },
+    {
+      "page": "/_not-found",
+      "regex": "^/_not\\-found(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_not\\-found(?:/)?$"
+    },
+    {
+      "page": "/403",
+      "regex": "^/403(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/403(?:/)?$"
+    },
+    {
+      "page": "/accounts/mistakes",
+      "regex": "^/accounts/mistakes(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/accounts/mistakes(?:/)?$"
+    },
+    {
+      "page": "/accounts/pending",
+      "regex": "^/accounts/pending(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/accounts/pending(?:/)?$"
+    },
+    {
+      "page": "/accounts/posting",
+      "regex": "^/accounts/posting(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/accounts/posting(?:/)?$"
+    },
+    {
+      "page": "/accounts/queue",
+      "regex": "^/accounts/queue(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/accounts/queue(?:/)?$"
+    },
+    {
+      "page": "/accounts/receivables",
+      "regex": "^/accounts/receivables(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/accounts/receivables(?:/)?$"
+    },
+    {
+      "page": "/accounts/refunds",
+      "regex": "^/accounts/refunds(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/accounts/refunds(?:/)?$"
+    },
+    {
+      "page": "/accounts/staff-loans",
+      "regex": "^/accounts/staff\\-loans(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/accounts/staff\\-loans(?:/)?$"
+    },
+    {
+      "page": "/accounts/suppliers",
+      "regex": "^/accounts/suppliers(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/accounts/suppliers(?:/)?$"
+    },
+    {
+      "page": "/admin/audit-log",
+      "regex": "^/admin/audit\\-log(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/admin/audit\\-log(?:/)?$"
+    },
+    {
+      "page": "/admin/branches",
+      "regex": "^/admin/branches(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/admin/branches(?:/)?$"
+    },
+    {
+      "page": "/admin/customers",
+      "regex": "^/admin/customers(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/admin/customers(?:/)?$"
+    },
+    {
+      "page": "/admin/services",
+      "regex": "^/admin/services(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/admin/services(?:/)?$"
+    },
+    {
+      "page": "/admin/settings",
+      "regex": "^/admin/settings(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/admin/settings(?:/)?$"
+    },
+    {
+      "page": "/admin/suppliers",
+      "regex": "^/admin/suppliers(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/admin/suppliers(?:/)?$"
+    },
+    {
+      "page": "/admin/targets",
+      "regex": "^/admin/targets(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/admin/targets(?:/)?$"
+    },
+    {
+      "page": "/admin/users",
+      "regex": "^/admin/users(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/admin/users(?:/)?$"
+    },
+    {
+      "page": "/dashboard",
+      "regex": "^/dashboard(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/dashboard(?:/)?$"
+    },
+    {
+      "page": "/dashboard/accounts",
+      "regex": "^/dashboard/accounts(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/dashboard/accounts(?:/)?$"
+    },
+    {
+      "page": "/dashboard/admin",
+      "regex": "^/dashboard/admin(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/dashboard/admin(?:/)?$"
+    },
+    {
+      "page": "/dashboard/manager",
+      "regex": "^/dashboard/manager(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/dashboard/manager(?:/)?$"
+    },
+    {
+      "page": "/dashboard/staff",
+      "regex": "^/dashboard/staff(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/dashboard/staff(?:/)?$"
+    },
+    {
+      "page": "/dev/api-test",
+      "regex": "^/dev/api\\-test(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/dev/api\\-test(?:/)?$"
+    },
+    {
+      "page": "/favicon.ico",
+      "regex": "^/favicon\\.ico(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/favicon\\.ico(?:/)?$"
+    },
+    {
+      "page": "/login",
+      "regex": "^/login(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/login(?:/)?$"
+    },
+    {
+      "page": "/notifications",
+      "regex": "^/notifications(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/notifications(?:/)?$"
+    },
+    {
+      "page": "/profile",
+      "regex": "^/profile(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/profile(?:/)?$"
+    },
+    {
+      "page": "/reports",
+      "regex": "^/reports(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/reports(?:/)?$"
+    },
+    {
+      "page": "/staff/performance",
+      "regex": "^/staff/performance(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/staff/performance(?:/)?$"
+    },
+    {
+      "page": "/staff/sales",
+      "regex": "^/staff/sales(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/staff/sales(?:/)?$"
+    },
+    {
+      "page": "/staff/sales/new",
+      "regex": "^/staff/sales/new(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/staff/sales/new(?:/)?$"
+    },
+    {
+      "page": "/styleguide",
+      "regex": "^/styleguide(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/styleguide(?:/)?$"
+    }
+  ],
+  "dataRoutes": [],
+  "rsc": {
+    "header": "rsc",
+    "varyHeader": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+    "prefetchHeader": "next-router-prefetch",
+    "didPostponeHeader": "x-nextjs-postponed",
+    "contentTypeHeader": "text/x-component",
+    "suffix": ".rsc",
+    "prefetchSegmentHeader": "next-router-segment-prefetch",
+    "prefetchSegmentSuffix": ".segment.rsc",
+    "prefetchSegmentDirSuffix": ".segments",
+    "clientParamParsing": false,
+    "dynamicRSCPrerender": false
+  },
+  "rewriteHeaders": {
+    "pathHeader": "x-nextjs-rewritten-path",
+    "queryHeader": "x-nextjs-rewritten-query"
+  }
+}
